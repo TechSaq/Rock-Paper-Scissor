@@ -5,11 +5,11 @@ Computer also randomly select one of the values.
 
 Game Rules:
 -Rock beats Scissor.
--Paper bets Rock
+-Paper beats Rock
 -Scissor beats Paper
 
 For eg : If user enters Scissor and computer select Paper the user wins since Scissor beats Paper.
-         If both user and computer select same value the it is draw.
+         If both user and computer select same value then it is draw.
          
 Enjoy and play!!
 Let's see whether you can beat computer. Test your Luck
